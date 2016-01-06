@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\testProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{60471AD9-4CFE-4E5B-B0E9-162030606969}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\testProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\testProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9C7F6432-DFEB-4395-B27B-91C8461E0256}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\testProject">
+			<UniqueIdentifier>{C575FBBC-8A6F-478E-9BEB-6E6A7A2014F0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\testProject\testProject.Build.cs">
+			<Filter>Source\testProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\testProject\testProject.cpp">
+			<Filter>Source\testProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\testProject\testProject.h">
+			<Filter>Source\testProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\testProject\testProjectCharacter.cpp">
+			<Filter>Source\testProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\testProject\testProjectCharacter.h">
+			<Filter>Source\testProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\testProject\testProjectGameMode.cpp">
+			<Filter>Source\testProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\testProject\testProjectGameMode.h">
+			<Filter>Source\testProject</Filter>
+		</ClInclude >
+		<Filter Include="Source\testProject\Private">
+			<UniqueIdentifier>{8B1543CC-B464-49D8-B019-52BFB25AD284}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\testProject\Private\AI_Creature.cpp">
+			<Filter>Source\testProject\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\testProject\Private\MyCharacterTest.cpp">
+			<Filter>Source\testProject\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\testProject\Private\RandomVectorGenerator.cpp">
+			<Filter>Source\testProject\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\testProject\Public">
+			<UniqueIdentifier>{08BE3665-96B6-4A34-83D0-CCBFFA01F11B}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\testProject\Public\AI_Creature.h">
+			<Filter>Source\testProject\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\testProject\Public\MyCharacterTest.h">
+			<Filter>Source\testProject\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\testProject\Public\RandomVectorGenerator.h">
+			<Filter>Source\testProject\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
