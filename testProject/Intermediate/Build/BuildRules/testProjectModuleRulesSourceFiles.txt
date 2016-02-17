@@ -467,8 +467,8 @@ C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptGeneratorPlugin\Source\Scr
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptEditorPlugin\ScriptEditorPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptPlugin\ScriptPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\Slate\SlateRemote\Source\SlateRemote\SlateRemote.Build.cs
-D:\Users\Emerick Lecomte\Mes documents\Unreal Projects\testProject\Source\testProject\testProject.Build.cs
+D:\Users\Emerick Lecomte\Mes documents\GitHub\Unreal-Project\testProject\Source\testProject\testProject.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Editor.Target.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Game.Target.cs
-D:\Users\Emerick Lecomte\Mes documents\Unreal Projects\testProject\Source\testProject.Target.cs
-D:\Users\Emerick Lecomte\Mes documents\Unreal Projects\testProject\Source\testProjectEditor.Target.cs
+D:\Users\Emerick Lecomte\Mes documents\GitHub\Unreal-Project\testProject\Source\testProject.Target.cs
+D:\Users\Emerick Lecomte\Mes documents\GitHub\Unreal-Project\testProject\Source\testProjectEditor.Target.cs
